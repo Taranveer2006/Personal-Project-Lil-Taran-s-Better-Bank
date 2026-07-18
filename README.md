@@ -2,29 +2,10 @@
 
 Lil Taran's Better Bank
 
-Lil Taran's Better Bank is an updated and expanded version of my original Lil Taran's Bank project. This version introduces a more realistic banking workflow by separating the application into a login page and a banking dashboard while adding support for multiple account types and money transfers.
+Lil Taran's Better Bank is a modified and enhanced version of my previous Lil Taran's Bank project. In this one, I have introduced a much more realistic banking experience by splitting the program into a login screen and a banking dashboard and implementing multiple accounts as well as money transfer capability.
 
-Features
-Secure login with a hardcoded username and password.
-Separate Checking and Savings accounts.
-Deposit money into either account.
-Withdraw money with insufficient-funds validation.
-Transfer funds between Checking and Savings accounts.
-Real-time balance updates after every transaction.
-Input validation to prevent invalid transactions.
-Built using HTML, CSS, and JavaScript.
-Technologies Used
-HTML5
-CSS3
-JavaScript (DOM Manipulation & Event Handling)
-Purpose
+Features A secure login mechanism where the username and password are hardcoded. Separate Checking and Savings accounts. The ability to deposit money into any of those accounts. Ability to withdraw money including the insufficient funds validation check. Money transfer feature from Checking to Savings and vice versa. Real time updating of balances after each transaction. Validation of inputs to avoid invalid transactions. Developed using HTML, CSS, and JavaScript. Technologies Used HTML5 CSS3 JavaScript (DOM Manipulation & Event Handling) Purpose
 
-This project was created to strengthen my understanding of front-end web development and JavaScript programming. It builds upon concepts from my original bank simulator by introducing more advanced features, cleaner program organization, user authentication, and account management.
+The purpose of this project is to further enhance my knowledge in front-end development and JavaScript programming. This project is an improvement on the concepts which I had implemented in my previous bank simulator project.
 
-Future Improvements
-Store account data using Local Storage or a database.
-Transaction history.
-On-screen forms instead of browser prompts.
-Multiple user accounts.
-AI-powered banking assistant capable of answering account-related questions.
-Backend implementation using Java Spring Boot or Python Flask.
+Future Improvements Account storage through Local Storage/Database. Transaction history. On-Screen forms rather than prompt dialogs. Multiple user accounts. AI-driven Banking assistant who can answer all your questions about your account. Back-End Development using Java Spring Boot or Python Flask.
